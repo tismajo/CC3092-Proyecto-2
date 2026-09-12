@@ -1,0 +1,28 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Datasets (se descargan de Kaggle, ver README)
+paysim/
+ibm-transactions/
+
+# Artefactos generados por el notebook
+artifacts_aml/
+
+# Notas locales
+necesidad.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
